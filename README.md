@@ -56,18 +56,18 @@ Instale as dependências:
 pip install -r requirements.txt
 ```
 
-```bash
 Execute as migrações:
+```bash
 python manage.py migrate
 ```
 
-```bash
 Inicie o servidor:
+```bash
 python manage.py runserver
 ```
 
-```bash
 Acesse o projeto no navegador em:
+```bash
 http://127.0.0.1:8000/
 ```
 
